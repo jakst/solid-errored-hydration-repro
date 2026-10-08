@@ -1,0 +1,16 @@
+{
+  "name": "solid-errored-hydration-repro",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "@solidjs/web": "2.0.0-rc.14",
+    "solid-js": "2.0.0-rc.14"
+  },
+  "devDependencies": {
+    "@solidjs/vite-plugin": "3.0.0-next.47",
+    "vite": "8.3.1"
+  }
+}
